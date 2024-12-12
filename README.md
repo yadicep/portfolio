@@ -2,6 +2,8 @@
 
 Welcome to my portfolio repository! This project showcases my skills, experience, and projects as a frontend developer and data analyst.
 
+Visit page here: https://yadicep.github.io/portfolio/
+
 ## 🌟 About the Project
 
 This portfolio was created to highlight my work and achievements in web development and data analysis. It includes projects built with modern tools and technologies, demonstrating my ability to deliver high-quality solutions.
